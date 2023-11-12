@@ -6,16 +6,20 @@
 ![image](https://github.com/hsu1123/image_file/blob/main/few%20shot%20split.PNG)
 
 * Model prediction without few shot learning
+
+  
 ![image](https://github.com/hsu1123/image_file/blob/main/demo_without_density.png)
 
 * Model prediction with few shot learning
+
+  
 ![image](https://github.com/hsu1123/image_file/blob/main/demo_few_modify.png)
 
 * Result
 <table>
   <tr>
     <td></td>
-    <td>MAE</td>
+    <td>Mean Absolute Error</td>
   </tr>
   <tr>
     <td>Without few shot learning</td>
@@ -26,4 +30,6 @@
     <td>4.42</td>
   </tr>
 </table>
-* More detail in report.pdf and slide.ppt
+
+
+* More detail show in report.pdf and slide.ppt
