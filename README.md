@@ -6,7 +6,7 @@
 ![image](https://github.com/hsu1123/image_file/blob/main/few%20shot%20split.PNG)
 
 * Model prediction without few shot learning
-![image](https://github.com/hsu1123/image_file/blob/main/few%20shot%20split.PNG)
+![image](https://github.com/hsu1123/image_file/blob/main/demo_without_density.png)
 
 * Model prediction with few shot learning
 ![image](https://github.com/hsu1123/image_file/blob/main/demo_few_modify.png)
